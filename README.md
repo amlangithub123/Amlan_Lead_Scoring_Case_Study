@@ -10,7 +10,7 @@ The company needs a model wherein you a lead score is assigned to each of the le
 The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
 # Files included :
-1. Python commented file: Lead_Scoring_Assignment.ipynb
-2. Word File: Lead Score Assignment Subjective Questions
-3. Presentation:  Lead Score Case Study Presentation
-4. PDF File: Lead Score Case Study Summary
+1. Python commented file: 01 Lead_Scoring_Assignment.ipynb
+2. Word File: 02 Lead Scoring Assignment Subjective Questions
+3. Presentation:  03 Lead Scoring Case Study Presentation
+4. PDF File: 04 Lead Scoring Case Study Summary
